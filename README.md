@@ -15,7 +15,7 @@ All About me and what I have done so far
     <td>🌐 JavaScript</td>
     <td>🌐 TypeScript</td>
     <td>🎨 HTML + CSS</td>
-    <td>#️⃣ C++</td>
+    <td>:heavy_plus_sign: C++</td>
     <td>🖥️ C</td>
     <td>👾 Bash</td>
   </tr>
