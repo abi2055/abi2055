@@ -9,7 +9,6 @@ All About me and what I have done so far
 ## Skills
 
 **Programming Languages:** 
-
 <table>
   <tr>
     <td>🐍 Python</td>
@@ -20,8 +19,53 @@ All About me and what I have done so far
     <td>:heavy_plus_sign: C++</td>
     <td>🖥️ C</td>
     <td>:moneybag: Bash</td>
+    <td>MATLAB</td>
   </tr>
 </table>
+
+**Frameworks:**
+<table>
+  <tr>
+    <td>⚛️ React</td>
+    <td>💨 Tailwind</td>
+    <td>🌶️ Flask</td>
+    <td>🍜 Django</td>
+    <td>🟢 Node JS</td>
+  </tr>
+</table>
+
+**Librariess:**
+<table>
+  <tr>
+    <td>Axios</td>
+    <td>Material UI</td>
+    <td>Three.js</td>
+    <td>NumPy</td>
+    <td>MatPlotLib</td>
+    <td>Pandas</td>
+    <td>Requests</td>
+    <td>JUnit</td>
+  </tr>
+</table>
+
+**Tools:**
+<table>
+  <tr>
+    <td>🔧 Git/GitHub</td>
+    <td>🐧 Linux</td>
+    <td>💻 VS Code</td>
+    <td>🎨 Figma</td>
+    <td>Postman</td>
+    <td>Vite</td>
+    <td>IntelliJ</td>
+    <td>Anaconda</td>
+    <td>Kubernetes</td>
+    <td>Docker</td>
+    <td>Apache Maven</td>
+  </tr>
+</table>
+
+**Practices:**
 
 ## Extra 
 
