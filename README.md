@@ -101,6 +101,8 @@ All About me and what I have done so far
 * My Best Advice: Watch what you eat and drink, it has a direct impact on not only your physical but also mental health
 
 ## Connect
+📫 Shoot me an email: abishek.naathan@gmail.com
+📇 Connect with me on [LinkedIn](https://www.linkedin.com/in/naathan/)
 
 <table>
   <tr>
