@@ -34,7 +34,7 @@ All About me and what I have done so far
   </tr>
 </table>
 
-**Librariess:**
+**Libraries:**
 <table>
   <tr>
     <td>Axios</td>
@@ -43,8 +43,15 @@ All About me and what I have done so far
     <td>NumPy</td>
     <td>MatPlotLib</td>
     <td>Pandas</td>
+  </tr>
+  <tr>
     <td>Requests</td>
     <td>JUnit</td>
+    <td>Redux</td>
+    <td>LangChain</td>
+    <td>Llava</td>
+    <td>Llama Index</td>
+    <td>Pyppeteer</td>
   </tr>
 </table>
 
@@ -68,6 +75,21 @@ All About me and what I have done so far
 </table>
 
 **Practices:**
+<table>
+  <tr>
+    <td> OOP </td>
+    <td> File I/O </td>
+    <td> Scrum + Agile Development </td>
+    <td> GRASP </td>
+    <td> SOLID </td>
+    <td> GoF Patterns </td>
+    <td> Graph Theory </td>
+    <td> Kanban </td>
+    <td> Unit Testing </td>
+    <td> Algorthims </td>
+    <td> JSON </td>
+  </tr>
+</table>
 
 ## Extra 
 
