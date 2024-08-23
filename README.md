@@ -57,6 +57,8 @@ All About me and what I have done so far
     <td>🎨 Figma</td>
     <td>Postman</td>
     <td>Vite</td>
+  </tr>
+  <tr>
     <td>IntelliJ</td>
     <td>Anaconda</td>
     <td>Kubernetes</td>
