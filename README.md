@@ -95,7 +95,8 @@ All About me and what I have done so far
 
 ## Extra 
 * What I'm Reading Right Now: [Little Fires Everywhere by Celeste Ng](https://www.goodreads.com/book/show/34273236-little-fires-everywhere)
-* I've been focusing on more active hobbies especially Muay Thai @ [LegendsMMA](https://legendsmma.net/)  
+* I've been focusing on more active hobbies especially Muay Thai @ [LegendsMMA](https://legendsmma.net/)
+* My Current Favourite Track: [Blue Green Red by Drake](https://open.spotify.com/track/1HBv0BqHfm6sMsAUg5H3Yo) 
 
 ## Connect
 
