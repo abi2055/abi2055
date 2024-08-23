@@ -102,6 +102,7 @@ All About me and what I have done so far
 
 ## Connect
 📫 Shoot me an email: abishek.naathan@gmail.com
+<br>
 📇 Connect with me on [LinkedIn](https://www.linkedin.com/in/naathan/)
 
 <table>
