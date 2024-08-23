@@ -68,7 +68,7 @@ All About me and what I have done so far
   <tr>
     <td>🧠 IntelliJ</td>
     <td>🐍 Anaconda</td>
-    <td>:wheel: Kubernetes</td>
+    <td>☸️ Kubernetes</td>
     <td>🐋 Docker</td>
     <td>🚁 Apache Maven</td>
   </tr>
@@ -77,19 +77,19 @@ All About me and what I have done so far
 **Practices:**
 <table>
   <tr>
-    <td> OOP </td>
-    <td> File I/O </td>
-    <td> Scrum + Agile Development </td>
-    <td> GRASP </td>
-    <td> SOLID </td>
+    <td> 🖥️ OOP </td>
+    <td> 📁 File I/O </td>
+    <td> 🧑‍🤝‍🧑 Scrum + Agile Development </td>
+    <td> ✋ GRASP </td>
+    <td> 🧊 SOLID </td>
   </tr>
   <tr>
-    <td> GoF Patterns </td>
-    <td> Graph Theory </td>
-    <td> Kanban </td>
-    <td> Unit Testing </td>
-    <td> Algorthims </td>
-    <td> JSON </td>
+    <td> 🏭 GoF Patterns </td>
+    <td> 📊 Graph Theory </td>
+    <td> 🗒️ Kanban </td>
+    <td> 🧪 Unit Testing </td>
+    <td> 🦾 Algorthims </td>
+    <td> ✍️ JSON </td>
   </tr>
 </table>
 
