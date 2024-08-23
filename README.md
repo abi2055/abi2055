@@ -1,6 +1,6 @@
-# Hi My name is Abishek 👋😄
+# Hi, My name is Abishek 👋😄
 
-## About Me
+## :book: About Me
 
 <!--
 **abi2055/abi2055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
