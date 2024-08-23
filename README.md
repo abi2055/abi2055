@@ -82,6 +82,8 @@ All About me and what I have done so far
     <td> Scrum + Agile Development </td>
     <td> GRASP </td>
     <td> SOLID </td>
+  </tr>
+  <tr>
     <td> GoF Patterns </td>
     <td> Graph Theory </td>
     <td> Kanban </td>
