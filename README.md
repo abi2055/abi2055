@@ -10,6 +10,8 @@ All About me and what I have done so far
 
 ## Extra 
 
+## Connect
+
 Updated: Aug 22 2024
 
 <!--
