@@ -2,9 +2,9 @@
 All About me and what I have done so far 
 
 ## :book: About Me
-* Headed to my third year in Software Engineering at the University of McMaster
+* Headed to my third year of Software Engineering at the University of McMaster
 * Currently Spending my time learning software and hardware skills on my own
-* Searching for a Co-op for 2024-2025
+* Searching for a Co-op for the 2024-2025 year
 
 ## Skills
 
