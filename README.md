@@ -94,7 +94,8 @@ All About me and what I have done so far
 </table>
 
 ## Extra 
-* Waht I'm Reading Right Now: [Little Fires Everywhere by Celeste Ng](https://www.goodreads.com/book/show/34273236-little-fires-everywhere)
+* What I'm Reading Right Now: [Little Fires Everywhere by Celeste Ng](https://www.goodreads.com/book/show/34273236-little-fires-everywhere)
+* I've been focusing on more active hobbies especially Muay Thai @ [LegendsMMA](https://legendsmma.net/)  
 
 ## Connect
 
