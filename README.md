@@ -102,7 +102,12 @@ All About me and what I have done so far
 
 ## Connect
 
-Updated: Aug 22 2024
+<table>
+  <tr>
+    Updated: Aug 22 2024
+  </tr>
+</table>
+
 
 <!--
 **abi2055/abi2055** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
