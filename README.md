@@ -6,7 +6,7 @@ All About me and what I have done so far
 * Currently Spending my time learning software and hardware skills on my own
 * Searching for a Co-op for the 2024-2025 year
 
-## Skills
+## 🌎 Skills
 
 **Programming Languages:** 
 <table>
@@ -93,14 +93,14 @@ All About me and what I have done so far
   </tr>
 </table>
 
-## Extra 
+## ➕ Extra 
 * What I'm Reading Right Now: [Little Fires Everywhere by Celeste Ng](https://www.goodreads.com/book/show/34273236-little-fires-everywhere)
 * I've been focusing on more active hobbies especially Muay Thai @ [LegendsMMA](https://legendsmma.net/)
 * My Current Favourite Track: [Blue Green Red by Drake](https://open.spotify.com/track/1HBv0BqHfm6sMsAUg5H3Yo)
 * Looking Forward to Watching [Interstellar](https://www.imdb.com/title/tt0816692/) returning to theatres
 * My Best Advice: Watch what you eat and drink, it has a direct impact on not only your physical but also mental health
 
-## Connect
+## 🤝 Connect
 📫 Shoot me an email: abishek.naathan@gmail.com
 <br>
 📇 Connect with me on [LinkedIn](https://www.linkedin.com/in/naathan/)
