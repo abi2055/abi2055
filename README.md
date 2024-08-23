@@ -18,7 +18,7 @@ All About me and what I have done so far
     <td>🎨 HTML + CSS</td>
     <td>:heavy_plus_sign: C++</td>
     <td>🖥️ C</td>
-    <td>:moneybag: Bash</td>
+    <td>💲 Bash</td>
     <td>MATLAB</td>
   </tr>
 </table>
@@ -37,21 +37,21 @@ All About me and what I have done so far
 **Libraries:**
 <table>
   <tr>
-    <td>Axios</td>
-    <td>Material UI</td>
-    <td>Three.js</td>
-    <td>NumPy</td>
-    <td>MatPlotLib</td>
-    <td>Pandas</td>
+    <td>🌐 Axios</td>
+    <td>🔲 Material UI</td>
+    <td>3️⃣ Three.js</td>
+    <td>🍕 NumPy</td>
+    <td>💹 MatPlotLib</td>
+    <td>🐼 Pandas</td>
   </tr>
   <tr>
-    <td>Requests</td>
-    <td>JUnit</td>
-    <td>Redux</td>
-    <td>LangChain</td>
-    <td>Llava</td>
-    <td>Llama Index</td>
-    <td>Pyppeteer</td>
+    <td>📫 Requests</td>
+    <td>♨️ JUnit</td>
+    <td>:electron: Redux</td>
+    <td>⛓️LangChain</td>
+    <td>🌋Llava</td>
+    <td>🦙Llama Index</td>
+    <td>🎎Pyppeteer</td>
   </tr>
 </table>
 
@@ -62,15 +62,15 @@ All About me and what I have done so far
     <td>🐧 Linux</td>
     <td>💻 VS Code</td>
     <td>🎨 Figma</td>
-    <td>Postman</td>
-    <td>Vite</td>
+    <td>📬 Postman</td>
+    <td>⏩ Vite</td>
   </tr>
   <tr>
-    <td>IntelliJ</td>
-    <td>Anaconda</td>
-    <td>Kubernetes</td>
-    <td>Docker</td>
-    <td>Apache Maven</td>
+    <td>🧠 IntelliJ</td>
+    <td>🐍 Anaconda</td>
+    <td>:wheel: Kubernetes</td>
+    <td>🐋 Docker</td>
+    <td>🚁 Apache Maven</td>
   </tr>
 </table>
 
