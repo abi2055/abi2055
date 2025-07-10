@@ -3,7 +3,7 @@ All About me and what I have done so far
 
 ## :book: About Me
 * Headed to my fourth year of Software Engineering at the University of McMaster
-* Currently working at Telesat as a Software Developer in Test
+* Currently working at [Telesat](https://www.telesat.com) as a Software Developer in Test
 * Enjoy Math, Physics and the Space industry, and would love to weave those interests together in the future
 
 ## 🌎 Skills
