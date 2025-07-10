@@ -17,6 +17,8 @@ All About me and what I have done so far
     <td>:keyboard: TypeScript</td>
     <td>🎨 HTML + CSS</td>
     <td>:heavy_plus_sign: C++</td>
+  </tr>
+  <tr>
     <td>🖥️ C</td>
     <td>💲 Bash</td>
     <td>📊 MATLAB</td>
@@ -68,10 +70,10 @@ All About me and what I have done so far
     <td>🎨 Figma</td>
     <td>📬 Postman</td>
     <td>📈 JFrog</td>
-  </tr>
-  <tr>
     <td>🧠 IntelliJ</td>
     <td>🐍 Anaconda</td>
+  </tr>
+  <tr>
     <td>☸️ Kubernetes</td>
     <td>🐋 Docker</td>
     <td>🚁 Apache Maven</td>
