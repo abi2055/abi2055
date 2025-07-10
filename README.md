@@ -6,7 +6,7 @@ All About me and what I have done so far
 * Currently working at [Telesat](https://www.telesat.com) as a Software Developer in Test
 * Enjoy Math, Physics and the Space industry, and would love to weave those interests together in the future
 
-## 🌎 Skills
+## 🌎 Skills and Technologies I Have Used
 
 **Programming Languages:** 
 <table>
