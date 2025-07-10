@@ -114,7 +114,7 @@ All About me and what I have done so far
 
 <table>
   <tr>
-    Updated: Aug 22 2024
+    Updated: July 09 2025
   </tr>
 </table>
 
