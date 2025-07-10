@@ -105,6 +105,10 @@ All About me and what I have done so far
 </table>
 
 ## 🚀 Projects
+Symbalyze (Symbol Recognition Mobile App)
+Maze Solver
+Real Estate Web Application Broker
+SumoBot 
 
 
 ## 🤝 Connect
