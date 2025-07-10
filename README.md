@@ -20,6 +20,7 @@ All About me and what I have done so far
     <td>🖥️ C</td>
     <td>💲 Bash</td>
     <td>MATLAB</td>
+    <td>Go</td>
   </tr>
 </table>
 
