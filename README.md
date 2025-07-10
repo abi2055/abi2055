@@ -19,8 +19,8 @@ All About me and what I have done so far
     <td>:heavy_plus_sign: C++</td>
     <td>🖥️ C</td>
     <td>💲 Bash</td>
-    <td>MATLAB</td>
-    <td>Go</td>
+    <td>📐 MATLAB</td>
+    <td>🐹 Go</td>
   </tr>
 </table>
 
