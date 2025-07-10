@@ -19,8 +19,10 @@ All About me and what I have done so far
     <td>:heavy_plus_sign: C++</td>
     <td>🖥️ C</td>
     <td>💲 Bash</td>
-    <td>📐 MATLAB</td>
+    <td>📊 MATLAB</td>
     <td>🐹 Go</td>
+    <td>🧾 SQL</td>
+    <td>📱 Kotlin</td>
   </tr>
 </table>
 
@@ -28,10 +30,11 @@ All About me and what I have done so far
 <table>
   <tr>
     <td>⚛️ React</td>
-    <td>💨 Tailwind</td>
+    <td>📱 React Native</td>
+    <td>🟢 Node.js</td>
     <td>🌶️ Flask</td>
     <td>🍜 Django</td>
-    <td>🟢 Node JS</td>
+    <td>📡 Express.js</td>
   </tr>
 </table>
 
@@ -42,29 +45,29 @@ All About me and what I have done so far
     <td>🔲 Material UI</td>
     <td>3️⃣ Three.js</td>
     <td>🍕 NumPy</td>
-    <td>💹 MatPlotLib</td>
+    <td>💹 Matplotlib</td>
     <td>🐼 Pandas</td>
   </tr>
   <tr>
     <td>📫 Requests</td>
     <td>♨️ JUnit</td>
     <td>:electron: Redux</td>
-    <td>⛓️LangChain</td>
-    <td>🌋Llava</td>
-    <td>🦙Llama Index</td>
-    <td>🎎Pyppeteer</td>
+    <td>⛓️ LangChain</td>
+    <td>🌋 Llava</td>
+    <td>🦙 Llama Index</td>
+    <td>🎎 Pyppeteer</td>
   </tr>
 </table>
 
 **Tools:**
 <table>
   <tr>
-    <td>🔧 Git/GitHub</td>
+    <td>🔧 Git/GitHub/GitLab</td>
     <td>🐧 Linux</td>
     <td>💻 VS Code</td>
     <td>🎨 Figma</td>
     <td>📬 Postman</td>
-    <td>⏩ Vite</td>
+    <td>📈 JFrog</td>
   </tr>
   <tr>
     <td>🧠 IntelliJ</td>
@@ -72,25 +75,30 @@ All About me and what I have done so far
     <td>☸️ Kubernetes</td>
     <td>🐋 Docker</td>
     <td>🚁 Apache Maven</td>
+    <td>🔁 Azure Service Bus</td>
+    <td>🧪 Pytest</td>
+    <td>🧰 Protocol Buffers</td>
+    <td>📦 CI/CD (GitLab)</td>
   </tr>
 </table>
 
 **Practices:**
 <table>
   <tr>
-    <td> 🖥️ OOP </td>
-    <td> 📁 File I/O </td>
-    <td> 🧑‍🤝‍🧑 Scrum + Agile Development </td>
-    <td> ✋ GRASP </td>
-    <td> 🧊 SOLID </td>
+    <td>🖥️ OOP</td>
+    <td>🧪 Unit Testing</td>
+    <td>📁 File I/O</td>
+    <td>📊 Graph Theory</td>
+    <td>🧑‍🤝‍🧑 Agile/Scrum</td>
+    <td>🗒️ Kanban</td>
   </tr>
   <tr>
-    <td> 🏭 GoF Patterns </td>
-    <td> 📊 Graph Theory </td>
-    <td> 🗒️ Kanban </td>
-    <td> 🧪 Unit Testing </td>
-    <td> 🦾 Algorthims </td>
-    <td> ✍️ JSON </td>
+    <td>🧊 SOLID</td>
+    <td>✋ GRASP</td>
+    <td>🏭 GoF Patterns</td>
+    <td>🔁 RESTful APIs</td>
+    <td>📐 UML</td>
+    <td>✍️ JSON</td>
   </tr>
 </table>
 
