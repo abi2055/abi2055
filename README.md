@@ -1,6 +1,6 @@
 ### Hi, I'm Abishek 👋
 
-Software Engineering at McMaster University, based in Toronto. I mostly work on CI/CD, developer tooling, and backend systems, with side projects in graphics and audio.
+Software Engineering at McMaster University, based in Toronto. I mostly work on AI and LLM tooling, CI/CD, and backend systems, with side projects in graphics and audio.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-naathan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naathan/)
 [![GitHub](https://img.shields.io/badge/GitHub-abi2055-181717?style=flat&logo=github&logoColor=white)](https://github.com/abi2055)
@@ -9,7 +9,7 @@ Software Engineering at McMaster University, based in Toronto. I mostly work on 
 
 #### Currently
 
-- **Software Engineer Intern @ AMD** (May 2026 – present): CI/CD and developer tooling for Instinct GPU systems
+- **Software Engineer Intern @ AMD** (May 2026 – present): CI/CD for Instinct GPU systems, plus AI developer tooling (an MCP server for Jenkins, an LLM-powered support assistant)
 - Building [**audio-visualizer**](https://github.com/abi2055/audio-visualizer), an audio visualizer from first principles
 - Building [**job-finder**](https://github.com/abi2055/job-finder), a personally tailored internship and new-grad job finder
 
